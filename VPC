@@ -1,0 +1,14 @@
+ ABOUT VPC ===== Virtual private cloud (VPC) is a cloud computing standard for securing cloud apps in a public cloud environment.
+ 
+ ==VPC is a cloud resource-sharing standard. 
+ 
+ BEST EXAMPLE OF VPC== For example, imagine the public cloud as a restaurant with hundreds of others dining there.
+                       Here, a VPC is equivalent to a private chamber that you can use with your family and have privacy and security within a public premise.
+ 
+ ==== VPC ensures the security of VPC users by allowing access to their digital assets only through some particular IP addresses.
+     The users can control access permission and assign apps or website access permission to a trusted group of public cloud users.
+CLOUD SERVICE OF VPC ==== 1. A virtual server instance (VSI) creates the compute resources. It comes with specific processing power and memory.
+
+2. The logical instance assists in data communication. This instance is known as networking. It allows end-users to access the cloud apps or tools they own
+
+3.A flexible storage resource for data storage. You may scale up or scale down your storage quota based on the changing needs.
